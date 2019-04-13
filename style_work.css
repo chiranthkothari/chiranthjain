@@ -1,0 +1,13 @@
+body{
+    font-family: "Courier";
+    background: black;
+    color: white;
+}
+
+.info{
+    color: grey;
+}
+
+a{
+    color: white;
+}
