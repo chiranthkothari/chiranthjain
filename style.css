@@ -267,21 +267,21 @@
   }
 
   @keyframes bgcol {
-    0% {
-        background: white;
+    from {
+        background-color: white;
       }
-      100% {
-          background: black;
+      to {
+          background-color: black;
           color: white;
       }
   }
   
   @-webkit-keyframes bgcol {
-    0% {
-      background: white;
+    from {
+      background-color: white;
     }
-    100% {
-        background: black;
+    to {
+        background-color: black;
         color: white;
     }
   }
